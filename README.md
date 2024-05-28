@@ -26,7 +26,7 @@ To get a local copy of the project up and running, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/agriassist-platform.git
+    git clone https://github.com/IPcaser/AgriAssist-Platform.git
     ```
 
 2. **Navigate to the project directory:**
